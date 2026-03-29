@@ -363,7 +363,7 @@ const SceneCTA: React.FC = () => {
             lineHeight: 1.1,
             textShadow: `0 4px 30px ${C.amaranth}80`,
           }}>
-            Únete a la comunidad que te impulsa
+            Quiero ser parte de esta comunidad
           </div>
         </div>
 
@@ -388,7 +388,7 @@ const SceneCTA: React.FC = () => {
               color: C.olive,
               letterSpacing: 0.5,
             }}>
-              Síguenos ahora 🔥
+              Sígueme ahora 🔥
             </div>
           </div>
         </div>
@@ -402,7 +402,7 @@ const SceneCTA: React.FC = () => {
             color: C.arena,
             letterSpacing: 2,
           }}>
-            @redesconvalor
+            @masielmateo
           </div>
         </div>
       </div>

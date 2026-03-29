@@ -13,9 +13,9 @@
   "repository": {},
   "license": "MIT",
   "dependencies": {
-    "@imgly/background-removal-node": "^1.4.5",
+    "@imgly/background-removal-node": "^1.4.3",
     "@remotion/captions": "^4.0.440",
-    "@remotion/cli": "4.0.440",
+    "@remotion/cli": "^4.0.438",
     "@remotion/install-whisper-cpp": "^4.0.440",
     "@remotion/media": "^4.0.440",
     "@remotion/media-utils": "4.0.440",
